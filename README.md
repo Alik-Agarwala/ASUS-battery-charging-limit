@@ -21,7 +21,7 @@
 
 ### For Windows 🪟:
 
-#### Please run PowerShell with Administrator priviledgess.
+#### Please run PowerShell with Administrator priviledges.
 
 `Step 1:` Download the [asus-battery-health-charging.ps1](/asus-battery-health-charging.ps1) script.
 
