@@ -41,3 +41,32 @@
 ```powershell
   powercfg -q 381b4222-f694-41f0-9685-ff5bb260df2e SUB_BATTERY
 ```
+
+### Contributors
+
+<!-- readme: contributors -start -->
+<table>
+<tr>
+    <td align="center">
+        <a href="https://github.com/PixMusicaX">
+            <img src="https://avatars.githubusercontent.com/u/129383302?v=4" width="100;" alt="PixMusicaX"/>
+            <br />
+            <sub><b>Pinaki Pritam Singha</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/Alik-Agarwala">
+            <img src="https://avatars.githubusercontent.com/u/98759503?v=4" width="100;" alt="Alik-Agarwala"/>
+            <br />
+            <sub><b>Alik Agarwala</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/AvikAgarwala">
+            <img src="https://avatars.githubusercontent.com/u/98759608?v=4" width="100;" alt="AvikAgarwala"/>
+            <br />
+            <sub><b>Avik Agarwala</b></sub>
+        </a>
+    </td></tr>
+</table>
+<!-- readme: contributors -end -->
