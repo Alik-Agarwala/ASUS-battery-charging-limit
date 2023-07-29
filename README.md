@@ -32,7 +32,7 @@
 
 `Step 3:` Execute the script, passing the desired charging limit value (1 - 100) upon prompt.
 ```powershell
-  ./asus-battery-health-charging.ps1
+  .\asus-battery-health-charging.ps1
 ```
 
 `Alternate Step:` if you have difficulty running the script, simple copy the code to administrator PowerShell and set the limit.
