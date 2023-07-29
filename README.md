@@ -21,7 +21,7 @@
 
 ### For Windows 🪟:
 
-#### Please run PowerShell with Administrator priviledges.
+#### Please run PowerShell with Administrator priviledges (tested with ASUS Zephyrus G14 GA401QC).
 
 `Step 1:` Download the [asus-battery-health-charging.ps1](/asus-battery-health-charging.ps1) script.
 
