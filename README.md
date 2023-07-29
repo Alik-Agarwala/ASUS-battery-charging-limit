@@ -17,4 +17,6 @@
 ```
 `Note:` This will set the battery charging limit to 60%. The setting will persist even after restarting. To change the limit, follow Step 3 and pass the desired value.
 
+---
+
 ### For Windows 🪟
