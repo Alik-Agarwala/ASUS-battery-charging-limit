@@ -1,6 +1,6 @@
 ## 🔋 ASUS BATTERY CHARGING LIMIT
 
-#### This script is used to set the charging limit for ASUS laptops (tested with ASUS ZenBook 14 UX425EA).
+#### This script is used to set the charging limit for ASUS laptops (tested with ASUS ZenBook 14 UX425EA and ASUS Zephyrus G14 GA401QC).
 
 ### For Linux 🐧:
 
@@ -21,7 +21,7 @@
 
 ### For Windows 🪟:
 
-#### Please run PowerShell with Administrator priviledges (tested with ASUS Zephyrus G14 GA401QC).
+#### Please run PowerShell with Administrator priviledgess.
 
 `Step 1:` Download the [asus-battery-health-charging.ps1](/asus-battery-health-charging.ps1) script.
 
