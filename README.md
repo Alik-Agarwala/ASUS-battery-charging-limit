@@ -1,5 +1,7 @@
 ## 🔋 ASUS BATTERY CHARGING LIMIT
 
+### For Linux 🐧
+
 #### This script is used to set the charging limit for ASUS laptops (tested with ASUS ZenBook 14 UX425EA).
 
 `Step 1:` Download the [asus-battery-health-charging.sh](https://github.com/alik-agarwala/ASUS-battery-charging-limit/blob/main/asus-battery-health-charging.sh) script.
@@ -14,3 +16,5 @@
   sudo sh asus-battery-health-charging.sh 60
 ```
 `Note:` This will set the battery charging limit to 60%. The setting will persist even after restarting. To change the limit, follow Step 3 and pass the desired value.
+
+### For Windows 🪟
