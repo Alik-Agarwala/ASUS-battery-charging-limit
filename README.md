@@ -1,6 +1,6 @@
 ## 🔋 ASUS BATTERY CHARGING LIMIT
 
-### For Linux 🐧
+### For Linux 🐧:
 
 #### This script is used to set the charging limit for ASUS laptops (tested with ASUS ZenBook 14 UX425EA).
 
@@ -19,4 +19,4 @@
 
 ---
 
-### For Windows 🪟
+### For Windows 🪟:
