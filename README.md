@@ -37,7 +37,7 @@
 
 `Alternate Step:` if you have difficulty running the script, simple copy the code to administrator PowerShell and set the limit.
 
-`Note:`  The setting will persist even after restarting. To change the limit, follow Step 3 and pass the desired value. If you wan to check limit status:
+`Note:`  The setting will persist even after restarting. To change the limit, follow Step 3 and pass the desired value. If you want to check limit status:
 ```powershell
   powercfg -q 381b4222-f694-41f0-9685-ff5bb260df2e SUB_BATTERY
 ```
