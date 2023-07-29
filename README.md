@@ -6,7 +6,7 @@
 
 ### For Linux 🐧:
 
-`Step 1:` Download the [asus-battery-health-charging.sh](/asus-battery-health-charging.sh) script.
+`Step 1:` Download the [asus-battery-health-charging.sh](asus-battery-health-charging.sh) script.
 
 `Step 2:` Grant executable permission to the script file.
 ```bash
@@ -25,7 +25,7 @@
 
 #### Please run PowerShell with Administrator priviledges.
 
-`Step 1:` Download the [asus-battery-health-charging.ps1](/asus-battery-health-charging.ps1) script.
+`Step 1:` Download the [asus-battery-health-charging.ps1](asus-battery-health-charging.ps1) script.
 
 `Step 2:` Grant executable permission to the script file. (Press Y upon prompt).
 ```powershell
