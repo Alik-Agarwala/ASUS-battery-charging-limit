@@ -25,7 +25,7 @@
 
 `Step 1:` Download the [asus-battery-health-charging.ps1](/asus-battery-health-charging.ps1) script.
 
-`Step 2:` Grant executable permission to the script file. (Press Y upon prompt
+`Step 2:` Grant executable permission to the script file. (Press Y upon prompt).
 ```powershell
   Set-ExecutionPolicy RemoteSigned
 ```
@@ -35,7 +35,7 @@
   ./asus-battery-health-charging.ps1
 ```
 
-`Alternate Step:` if you have difficulty running the script, simple copy the code to administrator PowerShell and set the limit
+`Alternate Step:` if you have difficulty running the script, simple copy the code to administrator PowerShell and set the limit.
 
 `Note:`  The setting will persist even after restarting. To change the limit, follow Step 3 and pass the desired value. If you wan to check limit status:
 ```powershell
