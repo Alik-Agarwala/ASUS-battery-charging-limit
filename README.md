@@ -20,3 +20,5 @@
 ---
 
 ### For Windows 🪟:
+
+`Step 1:` Download the [asus-battery-health-charging.sh](https://github.com/alik-agarwala/ASUS-battery-charging-limit/blob/main/asus-battery-health-charging.sh) script.
