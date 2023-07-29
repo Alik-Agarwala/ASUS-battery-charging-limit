@@ -4,7 +4,7 @@
 
 ### For Linux 🐧:
 
-`Step 1:` Download the [asus-battery-health-charging.sh](https://github.com/alik-agarwala/ASUS-battery-charging-limit/blob/main/asus-battery-health-charging.sh) script.
+`Step 1:` Download the [asus-battery-health-charging.sh](/asus-battery-health-charging.sh) script.
 
 `Step 2:` Grant executable permission to the script file.
 ```bash
@@ -35,13 +35,9 @@
   .\asus-battery-health-charging.ps1
 ```
 
-`Alternate Step:` if you have difficulty running the script, simple copy the code to administrator PowerShell and set the limit.
+`Alternate Step:` If you have difficulty running the script, simple copy the code to administrator PowerShell and set the limit.
 
 `Note:`  The setting will persist even after restarting. To change the limit, follow Step 3 and pass the desired value. If you want to check limit status:
 ```powershell
   powercfg -q 381b4222-f694-41f0-9685-ff5bb260df2e SUB_BATTERY
 ```
-
----
-
-[![forthebadge](https://forthebadge.com/images/badges/60-percent-of-the-time-works-every-time.svg)](https://forthebadge.com)
